@@ -1,0 +1,59 @@
+{
+  "doctors": [
+    {
+      "email": "Asat@gmail.com",
+      "name": "Asat Bahromov",
+      "date": "Oshanda",
+      "place": "Osha yerda",
+      "dest": "Oshatta",
+      "stat": "Uylangan lekin kochada unaqamas",
+      "bach": "Koridorda oqigan",
+      "num": "+998994563723",
+      "numb": "+998913748435",
+      "spec": "Terapiya",
+      "begin": "Jarrohlik",
+      "exp": "3 yil",
+      "depart": "Qollab quvvatlash",
+      "graph": "Ertalabdan kechgacha",
+      "week": "Dushanbadan Jumagacha",
+      "url": "2014-yil",
+      "start": "2016-yil",
+      "finish": "2019-yil",
+      "rank": "Yugurtak",
+      "former": "Narigi tomonda",
+      "other": "Qo`shimcha ma`lumot yoq",
+      "id": 1
+    }
+  ],
+  "patients": [
+    {
+      "email": "Ali@gmail.com",
+      "name": "Ali Toshov",
+      "date": "11.02.1991",
+      "place": "Buxoro",
+      "dest": "Oshatta",
+      "stat": "Uylangan",
+      "busy": "Ishsiz",
+      "bach": "Oliy",
+      "num": "+998907642314",
+      "numb": "+998992453118",
+      "group": "2",
+      "ins": "Insurance",
+      "reac": "Chang",
+      "press": "90-70",
+      "imt": "Ordeni bor",
+      "per": "2016 yildan 2-21 gacha",
+      "dateV": "2020-yil 5-avgust",
+      "out": "2020-yil 4-sentyabr",
+      "depart": "Terapiya",
+      "w": "79 kg",
+      "h": "174 sm",
+      "cure": "2020-yil 4-sentyabr",
+      "type": "Nervniy",
+      "resName": "Martin Breytveyt",
+      "adress": "Oshatta",
+      "anal": "Bir narsa deyish qiyin",
+      "id": 1
+    }
+  ]
+}
